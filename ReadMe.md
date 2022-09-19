@@ -1,5 +1,7 @@
 # Premier Projet
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 les commandes vu:
 
 cd: pour aller dans les documents
